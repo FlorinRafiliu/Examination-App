@@ -1,8 +1,8 @@
 # Examination-App
 
 ## Technology Stack:
-Frontend: HTML, CSS, JavaScript (minimal usage)
-Backend: PHP, MySQL (database)
+- Frontend: HTML, CSS, JavaScript (minimal usage)
+- Backend: PHP, MySQL (database)
 
 ## Project Overview:
 The Examination App is a web-based application designed to facilitate student examinations managed by professors. This project serves as a learning opportunity for developing server-side applications using PHP.
@@ -23,3 +23,5 @@ The Examination App is a web-based application designed to facilitate student ex
 - A structured form where students can answer all exam questions.
 ### Create Exam Page:
 - A form that enables professors to create and configure exams.
+### Cookies for navigation: 
+- The application uses cookies to enhance user experience by managing session data and ensuring smooth navigation across different pages.
